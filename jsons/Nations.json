@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [153,0,0],
+		"innerColor": [132,7,7],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Damascus","Allepo","Idlib","Homs","Deir ez-Zur","Daraa","Ar Raqqah","As Suwayda","Hama"]
 	}
