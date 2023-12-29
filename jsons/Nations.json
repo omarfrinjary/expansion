@@ -2,7 +2,7 @@
 	{
 		"name": "Syria",
 		"leaderName": "Bashar al-Assad",
-		"adjective": ["Syria"],
+		"adjective": ["syria_flag"],
 		"startBias": ["Dessert"],
 		"preferredVictoryType": "Domination",
 		
